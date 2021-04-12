@@ -15,6 +15,13 @@
   "scripts": {
     "test": "gulp test"
   },
+  "main": "dist/bootstrap-clockpicker.js",
+  "files": [
+    "dist/bootstrap-clockpicker.min.js",
+    "dist/bootstrap-clockpicker.min.css",
+    "dist/jquery-clockpicker.min.js",
+    "dist/jquery-clockpicker.min.css"
+  ],
   "dependencies": {},
   "devDependencies": {
     "gulp": "~3.8.7",
